@@ -1,13 +1,10 @@
 # balthazar
 Open-hardware laptop computer modules
-
-# BalthazarKeyboard
 Electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access
 KiCad 5.1.5 files
 
-Balthazar open-hardware laptop - keyboard and touchpad module
-
-The computer keyboard system with microcontroller (for now an 8-bit Atmel built into a small Sparkfun ProMicro board). A normal ISO keyboard layout is used. 
+# BalthazarKeyboard
+Keyboard and touchpad module - computer keyboard system with microcontroller (for now an 8-bit Atmel built into a small Sparkfun ProMicro board). A normal ISO keyboard layout is used. 
 
 An option is given to test the ability of the microcontroller to handle also the control for PSU board and the touchpad module data transfer to USB. Keypad and touchpad user activities are usually mutually exclusive – so this seems ok. Charger control is active a couple of seconds on startup of the system, so this is also ok. 
 
