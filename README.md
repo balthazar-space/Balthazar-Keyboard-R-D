@@ -21,6 +21,16 @@ However, this is not finite, and we are pusing to try to deliver the best option
 
 KiCad files are in version 5.1.5 format.
 
+## License
+
+All resources except the keyboard firmware - which is licensed with with GPLv3 or later - licensed under the CERN Open Hardware Licence CERN-OHL W V.2.0
+
+Version 2.0 of the CERN-OHL introduces three variants of the licence – strongly (S) reciprocal, weakly (W) reciprocal and permissive (P) – which aim to address specific constraints caused by different collaboration models currently used in open-hardware projects. 
+
+The first two variants mean that if any product is made using an open hardware design, the design of that product, including any improvements or modifications, should be made available under the same licence as that of the original product. Permissive licences do not impose this condition.
+
+See the [LICENSE.md](./LICENSE.md) file for more information.
+
 ## Funding
 
 This project is funded through the [NGI Zero Entrust Fund](https://nlnet.nl/entrust), a fund
