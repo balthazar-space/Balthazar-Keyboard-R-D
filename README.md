@@ -1,7 +1,8 @@
 # Balthazar
-Open-hardware laptop computer modules
-Electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access
-KiCad 5.1.5 files
+
+Open-hardware laptop computer modules description and concept.
+
+These are electronic schematic modules as presented at https://balthazar.space/wiki/Balthazar with the main aim for team access. See the [main repository](https://github.com/balthazar-space/balthazar) for other designs.
 
 # Balthazar Keyboard
 Keyboard and touchpad module - computer keyboard system with microcontroller (for now an 8-bit Atmel built into a small Sparkfun ProMicro board). A normal ISO keyboard layout is used. 
@@ -17,6 +18,8 @@ The keys have some ergonomic solution that gives some additional design touch.
 The keyboard switches are important but are for now very typical low cost membrane switches. A little better solution are the softer (silicone) – but still membrane – switches. The idea is to have a waterproof (silicone) layer over the whole board. The board can then already act as a top cover. The feel of silicone rubber is preferred to that of natural rubber. 
 
 However, this is not finite, and we are pusing to try to deliver the best option.
+
+KiCad files are in version 5.1.5 format.
 
 ## Funding
 
